@@ -1,0 +1,5 @@
+streamlit==1.62.0
+pandas>=2.2,<3
+altair>=5.0,<7
+requests>=2.32,<3
+twilio>=9.0,<10
